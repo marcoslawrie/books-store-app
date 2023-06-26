@@ -1,8 +1,6 @@
 # library-app
 Full stack development of a web app application for learning purposes.
 
-# Application Name
-
 ## Technologies Used
 
 - TypeScript
