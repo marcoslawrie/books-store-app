@@ -1,11 +1,10 @@
 import React from 'react';
 import './App.css';
+import { Navbar } from './layouts/NavBarAndFooter/Navbar';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Initial setup Front End project done!</h1>
-    </div>
+      <Navbar/>
   );
 }
 
